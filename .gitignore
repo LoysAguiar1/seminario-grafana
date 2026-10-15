@@ -49,3 +49,6 @@ prometheus/data/
 
 # Pacotes compactados locais
 *.zip
+node_modules/
+data/
+data/
